@@ -1,19 +1,12 @@
-.App {
-  text-align: center;
+colors {
+  --star-command-blue: hsla(204, 81%, 68%, 1);
+  --apricot: hsla(16, 29%, 100%, 1);
+  --african-violet: hsla(285, 29%, 75%, 1);
+  --tea-green: hsla(120, 12%, 91%, 1);
+  --rich-black-fogra-39: hsla(260, 25%, 5%, 1);
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
+/* .App-header {
   background-color: #282c34;
   min-height: 100vh;
   display: flex;
@@ -22,17 +15,4 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
+} */
